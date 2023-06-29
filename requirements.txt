@@ -1,0 +1,1 @@
+metno-locationforecast==1.1.0
