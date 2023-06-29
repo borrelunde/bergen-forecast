@@ -30,5 +30,11 @@ def present_forecast(forecast_response: str, forecast: Forecast):
 
 
 if __name__ == "__main__":
+    # Print the application name and version.
     print(f'{APP_NAME} version {APP_VER}')
+
+    # Print the forecast data.
     present_forecast(forecast_response=api_response, forecast=forecast_bergen)
+
+    # Print an empty new line to separate the forecast data from whatever comes next.
+    print()
