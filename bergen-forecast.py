@@ -1,7 +1,7 @@
 from metno_locationforecast import Place, Forecast
 from metno_locationforecast.data_containers import Variable, Interval
 
-APP_NAME = 'weather-forecast'
+APP_NAME = 'bergen-forecast'
 APP_VER = '1.0.0'
 
 # Create a Place instance for Bergen, Norway.

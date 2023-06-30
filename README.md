@@ -1,4 +1,4 @@
-# Weather Forecast
+# Bergen Forecast
 
 ## Introduction
 
@@ -24,12 +24,12 @@ python weather-forecast.py
 
 Perhaps you'd like to run the Python program from a batch file. This is an example script provided for that.
 
-*example/path/run-weather-forecast.bat*
+*example/path/run-bergen-forecast.bat*
 ```bat
 @ECHO OFF
 
 REM Execute the Python script.
-python weather-forecast.py
+python bergen-forecast.py
 
 REM Prevent terminal from exiting immediately
 REM after the Python script is finished.
